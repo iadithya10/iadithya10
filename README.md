@@ -11,24 +11,23 @@
 
 ---
 
-## ♟️ Let's Play Chess!
+## 🎮 GitHub Snake Animation
 
-♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛
-⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜
-⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛
-⬛ ⬜ ⬛ ⬜ ⬛ ⬜ ⬛ ⬜
-♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
-♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
-🧠 **Challenge:** What’s the best move for White?
+<p align="center">
+  <img alt="Snake animation" src="https://github.com/iadithya10/iadithya10/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
-<details>
-<summary>💡 Click for Hint</summary>
-<p>Try moving the queen to put pressure on the king’s side. 😉</p>
-</details>
+> 🐍 Watch your contribution graph come alive with this animated snake!
 
-[🎮 Play this position live](https://lichess.org/editor/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1) on Lichess
+---
+
+## 🧱 Fun Tetris Blocks Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/Platane/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</p>
+
+> 🎉 This cool 3D rainbow block animation mimics Tetris vibes using your GitHub contributions.
 
 ---
 
