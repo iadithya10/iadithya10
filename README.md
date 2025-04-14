@@ -74,9 +74,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iadithya10&theme=radical" />
 </p>
 
----
-
-Let me know if you'd like to add:
-- Your personal portfolio website
-- Blog links
-- Any badges (like LeetCode, HackerRank, etc.)
