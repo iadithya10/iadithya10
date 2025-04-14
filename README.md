@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adithya Babu</h1>
 <h3 align="center">🚀 Passionate Software Engineer with expertise in AI, machine learning, and software development, skilled in Agile methodologies, problem-solving, and debugging</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iadithya10&label=Profile%20views&color=0e75b6&style=flat" alt="iadithya10" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=iadithya10&label=Profile%20views&color=0e75b6&style=flat" alt="iadithya10" /> 
+</p>
 
 - 🔭 I’m currently working on **Geoguard Flood And Landslide Prediction Using Machine Learning**
 
@@ -11,23 +13,23 @@
 
 ---
 
-## 🎮 GitHub Snake Animation
+## 🎮 Snake Animation (Just for Fun!)
 
 <p align="center">
-  <img alt="Snake animation" src="https://github.com/iadithya10/iadithya10/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" />
 </p>
 
-> 🐍 Watch your contribution graph come alive with this animated snake!
+> 🐍 A classic Snake animation to make this profile feel nostalgic and playful!
 
 ---
 
-## 🧱 Fun Tetris Blocks Animation
+## 🧱 Tetris-style Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/Platane/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="400" />
 </p>
 
-> 🎉 This cool 3D rainbow block animation mimics Tetris vibes using your GitHub contributions.
+> 🎮 Love puzzles? Here's a mini Tetris tribute right in the profile!
 
 ---
 
