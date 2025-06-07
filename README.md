@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adithya Babu</h1>
+<h1 align="center">Hi👋, I'm Adithya Babu</h1>
 <h3 align="center">🚀 Passionate Software Engineer with expertise in AI, Machine Learning, and Software Development. Skilled in Agile methodologies, problem-solving, and debugging.</h3>
 
 <p align="center">
