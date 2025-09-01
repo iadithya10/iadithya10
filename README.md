@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **adithyababu1902@gmail.com**
 
-- 📄 [View My Resume](https://drive.google.com/file/d/1zBk8MkCMQrccUqYsqAH59QikFpnxG3ET/view?usp=drive_link)
+- 📄 [View My Resume](https://drive.google.com/file/d/1eAnoW7bB_mh5uSXHk_PJmtToHhCSvyUB/view?usp=drive_link)
 
 ---
 
