@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Geoguard: Flood and Landslide Prediction using Machine Learning**
 
-- 📫 Reach me at **adithyababu1902@gmail.com**
+- 📫 Reach me at ***adithyababu1902@gmail.com***
 
 - 📄 [View My Resume](https://drive.google.com/file/d/1eAnoW7bB_mh5uSXHk_PJmtToHhCSvyUB/view?usp=drive_link)
 
