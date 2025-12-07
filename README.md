@@ -66,7 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iadithya10&theme=radical" alt="GitHub Streak" />
 </p>
 
----
+----
 
 ### 🏆 GitHub Contributions:
 
