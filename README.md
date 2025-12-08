@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=iadithya10&label=Profile%20views&color=0e75b6&style=flat" alt="iadithya10" />
 </p>
 
-- 🔭 I’m currently working on **Geoguard: Flood and Landslide Prediction using Machine Learning**
+- 🔭 I’m currently working on **Inventory-Sales-Management-Dashboard**
 
 - 📫 Reach me at: ***adithyababu1902@gmail.com***
 
