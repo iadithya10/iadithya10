@@ -50,20 +50,13 @@
   </a>
 </p>
 
----
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iadithya10&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iadithya10&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadithya10&layout=compact&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iadithya10&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iadithya10&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=iadithya10&theme=radical&cache_seconds=86400)
 
 
 ----
