@@ -56,7 +56,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iadithya10&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iadithya10&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=iadithya10&theme=radical)
+
 
 
 ----
