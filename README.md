@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="...typing svg..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Adithya+Babu+👋;Full+Stack+Developer;Software+Engineer;Building+Scalable+Web+Applications" />
 </p>
 
 # 👋 Hi, I'm Adithya Babu
