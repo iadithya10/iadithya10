@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Adithya+Babu+👋;Full+Stack+Developer;Software+Engineer;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00C853&center=true&vCenter=true&width=700&lines=Hi+I'm+Adithya+Babu+👋;Full+Stack+Developer+%7C+Software+Engineer;I+Build+Scalable+Backend+Systems;Turning+Ideas+Into+Impactful+Software" />
 </p>
+
 
 # 👋 Hi, I'm Adithya Babu
 
