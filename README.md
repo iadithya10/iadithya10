@@ -11,7 +11,7 @@ I design and build scalable backend systems and modern full-stack applications t
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 • **Inventory–Sales Management Dashboard** with real-time tracking, analytics, and reporting  
 • Backend APIs and database integration for inventory, sales, and user management  
 • Secure REST APIs with authentication and role-based access  
