@@ -4,7 +4,7 @@
 
 
 
-# 👋 Hi, I'm Adithya Babu
+## 👋 Hi, I'm Adithya Babu
 
 🚀 **Full Stack Developer**  
 I design and build scalable backend systems and modern full-stack applications that turn real-world problems into efficient, impactful software solutions.
