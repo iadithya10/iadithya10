@@ -51,7 +51,7 @@ I design and build scalable backend systems and modern full-stack applications t
 
 ## 🌱 Currently Upskilling In
 • Advanced Python & Data Structures  
-• Machine Learning with real-time data pipelines  
+• React Native mobile app development
 • Secure API design (JWT, OAuth, RBAC)  
 • Scalable backend architecture & system design  
 • Dashboard-focused frontend & responsive UI  
